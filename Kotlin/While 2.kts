@@ -1,6 +1,6 @@
 var x = 100
-when(x >= 0) {
+while(x>=1){
     print("$x")
-    x++
+    x-=1
 }
-print("fuck off!!")
+print("Fuck Off!!")
