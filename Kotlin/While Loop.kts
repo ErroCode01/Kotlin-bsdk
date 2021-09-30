@@ -1,6 +1,6 @@
-var x = 1
-while(x <= 10){
-    println("$x")
-    x++
+vra x = 11
+while(x>=1){
+    print("$x")
+    x-=1
+
 }
-  print("Fuck off!!")
